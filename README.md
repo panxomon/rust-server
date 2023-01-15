@@ -1,2 +1,2 @@
-# rust-server
-testing server http in rust
+# actix-test
+web server &amp; api test with rust
